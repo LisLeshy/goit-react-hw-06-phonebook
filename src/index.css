@@ -1,8 +1,8 @@
-@import-normalize; /* bring in normalize.css styles */
+/* @import-normalize; bring in normalize.css styles */
 
 :root {
-  --main-text-color: #C262D3
-  --second-text-color:#EE6B9E;
+  --main-text-color: #C262D3;
+  --second-text-color:#78354f;
   --accent-text-color: #936CD6;
 
   --main-bg-color: #faf0fb;
